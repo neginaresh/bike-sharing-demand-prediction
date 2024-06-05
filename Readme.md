@@ -57,6 +57,17 @@ The dataset used in this project contains daily bike demand data along with seve
 
 This project provides a comprehensive analysis and predictive model for bike-sharing demand. It can help BoomBikes optimize their business strategy and prepare for increased demand post-pandemic.
 
+Train R-squire=0.844
+
+Test R-squire=0.7795
+
+Train Adj-R-squire=0.841
+
+Test Adj-R-squire=0.832
+
+That seems a very good model.
+
+
 ## Contact
 
 For any queries or feedback, please contact Naresh Negi at naresh.negi@gmail.com.
